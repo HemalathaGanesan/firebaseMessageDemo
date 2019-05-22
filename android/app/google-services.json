@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174046622170",
+    "firebase_url": "https://fir-messagedemo-5a6e9.firebaseio.com",
+    "project_id": "fir-messagedemo-5a6e9",
+    "storage_bucket": "fir-messagedemo-5a6e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174046622170:android:3df0f075eca58d3f",
+        "android_client_info": {
+          "package_name": "com.firebasemessagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174046622170-tj0hrfucfrg8fqi74lsg80kk5r66ca2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAco789myhMiv8GhPGwboyhwJghUw3BFIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174046622170-tj0hrfucfrg8fqi74lsg80kk5r66ca2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
